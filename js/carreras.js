@@ -1,4 +1,4 @@
 function login(){
-    window.location.href = "subpaginas/register.html";
+    window.location.href = "./subpaginas/register.html";
   }
   
