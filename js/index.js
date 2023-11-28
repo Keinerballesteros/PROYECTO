@@ -15,7 +15,7 @@ function estableceNombreUsuario() {
     title.textContent = "¡Hola," + nombreAlmacenado +"!";
   }
   function login(){
-    window.location.href = "/subpaginas/register.html";
+    window.location.href = "subpaginas/register.html";
   }
 document.getElementById('whatsapp').addEventListener('click', function() {
     window.location.href = 'https://www.whatsapp.com/';
